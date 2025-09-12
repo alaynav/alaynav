@@ -2,19 +2,19 @@
 
 <div align="center">
   
-  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
+  ![](https://github.com/alaynav/stats/blob/master/generated/overview.svg)
+  ![](https://github.com/alaynav/stats/blob/master/generated/languages.svg)
   
 </div>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=alaynav&show_icons=true&theme=tokyonight" 
     alt="Alayna's GitHub stats" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaynav&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
   />
