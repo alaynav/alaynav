@@ -10,7 +10,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=alaynav&show_icons=true&theme=tokyonight" 
-    alt="Alayna's GitHub stats" 
+    alt="GitHub Stats" 
     height="170"
   />
   <img 
