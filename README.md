@@ -26,7 +26,7 @@
 - Health & Wellness
 - Life Enthusiast
 
-## ⚡ Languages & Frameworks
+## ⚡ Languages and Frameworks
 
 <table>
   <tr>
