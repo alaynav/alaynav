@@ -26,7 +26,7 @@
 - Health & Wellness
 - Life Enthusiast
 
-## ⚡ Languages and Frameworks
+## ⚡ Languages & Frameworks
 
 <table>
   <tr>
@@ -101,7 +101,7 @@
   </tr>
 </table>
 
-## 🤝 Connect with me!
+## 🤝 Let's Connect!
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/whoop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whoop)
