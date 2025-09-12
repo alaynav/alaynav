@@ -16,7 +16,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaynav&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
-    height="170"
+    height="200"
   />
 </p>
 
