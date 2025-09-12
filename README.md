@@ -11,7 +11,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=alaynav&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats" 
-    height="170"
+    height="210"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaynav&layout=compact&theme=tokyonight" 
