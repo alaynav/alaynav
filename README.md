@@ -13,14 +13,12 @@
     alt="Alayna's GitHub stats" 
     width="400" 
     height="170"
-
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaynav&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     width="400" 
     height="170"
-
   />
 </p>
 
