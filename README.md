@@ -19,6 +19,14 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=alaynav&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" />
+</p>
+
+![Profile Visits](https://komarev.com/ghpvc/?username=alaynav&color=brightgreen&label=profile_views:)
+
 ## 🎓 About Me
 
 - Quant Investor
@@ -105,6 +113,8 @@
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/whoop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whoop)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whoop)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+
 
 ## 😊 Favorites...
 
