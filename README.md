@@ -27,12 +27,6 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=alaynav&color=brightgreen&label=profile_views:)
 
-## 🎓 About Me
-
-- Quant Investor
-- Health & Wellness
-- Life Enthusiast
-
 ## ⚡ Languages and Frameworks
 
 <table>
